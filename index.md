@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## And this is a test
 [Test](pages/1.md)
-
+[Chana masala](pages/ChanaMasala.md)
 
 ### Markdown
 
