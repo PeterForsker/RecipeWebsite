@@ -28,5 +28,6 @@
 9. Add salt.
 10. Stir all ingredients together.
 11. Simmer for 20-30 min untill thickened.
+12. Stir in vinegar.
 
 Serve with rice.
